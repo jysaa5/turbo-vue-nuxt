@@ -11,6 +11,7 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@atlaskit/pragmatic-drag-and-drop": "^1.5.0",
     "ui": "workspace:*",
     "vue": "^3.4.21"
   },

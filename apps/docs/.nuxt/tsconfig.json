@@ -90,7 +90,7 @@
   ],
   "exclude": [
     "../node_modules",
-    "../../../../node_modules",
+    "../../../node_modules",
     "../../../node_modules/.pnpm/nuxt@3.10.3_eslint@8.57.0_typescript@5.5.4_vite@5.1.4/node_modules/nuxt/node_modules",
     "../../../node_modules/.pnpm/@nuxt+devtools@1.0.8_nuxt@3.10.3_vite@5.1.4/node_modules/@nuxt/devtools/runtime/server",
     "../@nuxt/telemetry/runtime/server",
